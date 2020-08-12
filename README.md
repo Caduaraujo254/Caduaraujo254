@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Caduaraujo254/Caduaraujo254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sou apaixonado por resolver problemas utilizando a programação. 💻
 
 
